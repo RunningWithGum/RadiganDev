@@ -1,0 +1,176 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+  font-weight: bold;
+  background-color: #ec524b;
+  min-width: 1200px;
+
+
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 5.625rem;
+  color: #ec524b;
+  line-height: .75;
+}
+
+h2 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 2.0rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  padding: 20px;
+  font-family: 'Merriweather', serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+}
+
+hr {
+  width: 15%;
+  border: none;
+  border-top: 10px dotted;
+  margin-top: 50px;
+  color: #ec524b;
+
+}
+
+p {
+  line-height: 2;
+}
+
+#atplic {
+  color: #f5b461;
+}
+
+
+
+.top-container {
+  background-color: #9ad3bc;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 200px;
+  height: 100vh;
+  min-height: 1000px;
+
+
+
+}
+
+.middle-container {
+  margin: 10px 0 15px 0;
+  padding-top: 50px;
+  background-color: #f3eac2;
+
+}
+
+.bottom-container {
+  background-color: #f5b461;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+  margin-bottom: 0;
+  height: 300px;
+}
+
+.topcloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  height: 300px;
+}
+
+.runwaytop {
+  padding-top: 75px;
+  width: 25%;
+
+}
+
+
+.skill-row {
+  width: 50%;
+  margin: 0 auto 100px auto;
+  text-align: left;
+}
+
+.landing {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.nyjet {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.desc {
+  width: 35%;
+  margin: auto;
+}
+
+.disclaim {
+  color: #EAF6F6;
+  font-size: .75rem;
+}
+
+.contact-me {
+  margin-bottom: 10px;
+}
+
+.BUTTON_YWX {
+  background: #11999E;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  height: 6px;
+  line-height: 6px;
+  color: #FFFFFF;
+  font-family: Open Sans;
+  width: 150px;
+  font-size: 21px;
+  font-weight: 100;
+  padding: 20px;
+  -webkit-box-shadow: 1px 1px 20px 0 #000000;
+  -moz-box-shadow: 1px 1px 20px 0 #000000;
+  box-shadow: 1px 1px 20px 0 #000000;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON_YWX:hover {
+  border: solid 1px;
+  background: #66BFBF;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
